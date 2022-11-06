@@ -4,4 +4,4 @@
 
 - find me on [twitter](https://twitter.com/NyaomiTWT).
 - buy my music on [bandcamp](https://nyaomi.bandcamp.com).
-- waste your money on me via [ko-fi](https://ko-fi.com/nyaomipic) or [github sponsors](https://github.com/sponsors/NyaomiDEV).
+- waste your money on me via [ko-fi](https://ko-fi.com/nyaomipic).
